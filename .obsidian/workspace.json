@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "AI Engineering Personal Track.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd83ec3327e9b868",
@@ -164,13 +165,23 @@
               "icon": "lucide-list",
               "title": "Outline of AI Engineering Personal Track"
             }
+          },
+          {
+            "id": "e27d60532ef093b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,13 +191,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fb21776743f6b1a9",
   "lastOpenFiles": [
-    "Welcome.md",
     "ARCANE.md",
-    "AI Engineering Personal Track.md"
+    "AI Engineering Personal Track.md",
+    "Welcome.md"
   ]
 }
