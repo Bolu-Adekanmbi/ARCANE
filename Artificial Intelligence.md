@@ -15,3 +15,4 @@ graph LR
 	A --> C[Weak AI ~ Current AI]
 ```
 
+Software it _deterministic_ but AI models are _probabilistic_

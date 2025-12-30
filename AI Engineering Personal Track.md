@@ -22,3 +22,5 @@ Standford Lectures:
 - ML from Human Feedback (CS329H) - https://lnkd.in/dHNXCeCQ
 - Computer Vision (CS231N) - https://lnkd.in/d5kj3Ncd
 - LLM Evaluation & Scaling - https://lnkd.in/dB9squGS
+- How to build an LLM Lecture - https://www.youtube.com/watch?v=9vM4p9NN0Ts
+
