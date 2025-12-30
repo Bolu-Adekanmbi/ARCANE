@@ -4,9 +4,20 @@ aliases:
 ---
 # Technical know-how
 
-### Steps
+### Steps (General LLM)
 1. Before a neural network can process text it must undergo [[Tokenization|tokenization]]
 2. Next, LLMs must undergo [[Pretraining|pretraining]]
+3. After pretraining, models typically undergo [[Fine Tuning|fine tuning]]
+4. To further improve, models may go through [[Reinforcement Learning#RLHF (Reinforcement Learning From Human Feedback)|reinforcement learning from human feedback(RLHF)]]
+5. After training and [[Fine Tuning|fine tuning]] the model is ready for [[Inference|inference]]
+
+#### Additional Steps
+1. [[Distillation]] is an optional step to make the model run efficiently on smaller devices
+2. [[Evaluation]]: benchmarking a model in real-world scenarios
+	- They can be standardized tests: e.g. [SWE-bench](https://www.swebench.com/)
+	- Custom, domain-specific tests can be used as well
+
+Models can perform [[Complex Reasoning|complex reasoning]] tasks using a multitude of specialized techniques
 # General Understanding
 
 An LLM is a type of [[Artificial Intelligence|AI]] that recognizes and generates text.
