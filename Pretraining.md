@@ -11,7 +11,7 @@ Gathering data is much more complex than just scraping websites: Bad Input --> B
 
 The model uses this data to adjust parameters ([[weights]] and [[biases]]) that modify how the model behaves/predicts
 
-Parameters chance how the models reacts to certain words, phrases, patterns, etc.
+Parameters change how the models reacts to certain words, phrases, patterns, etc.
 - All gathered text isn't stored in the Model
 - Instead, the text is used to adjust these parameter values which capture general knowledge about the input text/language
 

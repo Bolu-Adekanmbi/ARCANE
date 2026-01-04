@@ -13,3 +13,16 @@ Once a model is able to understand relationships between tokens, in the context 
 	- [[Byte Pair Encoding|Byte Pair Encoding (BPE)]] #TODO 
 
 There are specialized [[Tokenizers|tokenizers]] for processing math and code! #TODO  
+
+### Token?
+Basic unit of a language model
+
+Tokens can be a character, a word, or just a part of a word (e.g. -tion)
+
+Why Tokens and Not words?
+- Ability to break down words into meaningful components: e.g. “cooking” can be broken into “cook” and “ing” with both parts having their own definitions that build upon each other.
+- Fewer unique tokens than unique words. Reduces model [[Vocabulary|vocabulary]] size, making it more efficient
+- Tokens help a model process unseen new words. E.g. a made up term “chatgpting” can still be understood by a model based on the understanding of “chagpt” and “ing”.
+
+Tokens: Less units than words + more meaning than individual characters
+
