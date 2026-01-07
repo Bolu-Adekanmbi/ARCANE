@@ -1,6 +1,8 @@
 > Embeddings turn things(words/images/etc.) into points in space where things that are similar end up closer together and different things are far apart
 
-> Embeddings allow us to take a medium (words/images/etc.) and map meaning to space
+> Embeddings allow us to take a medium (words/images/etc.) and map meaning to a vector space
+
+> Vectors that aim to capture the meaning of the original data.
 
 ### LLM Context
 Within the context of [[Large Language Models|LLMs]], embeddings allow us to map out semantic meaning of words

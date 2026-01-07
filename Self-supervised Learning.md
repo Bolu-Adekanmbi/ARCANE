@@ -20,3 +20,6 @@ The sentence: “I love eating chocolate” can be broken into various combinati
 With self-supervised, [[Language Model|language models]] don’t require labeling. Text sequences are everywhere: books, comments online, etc. 
 
 This makes it possible to gather a large amount of training data, allowing [[Language Model|language models]] to scale to become [[Large Language Models|LLMs]]
+
+### Variants
+- [[Natural Language Supervision]]
