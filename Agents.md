@@ -1,0 +1,1 @@
+> [[Artificial Intelligence|AI]] that can plan and use tools to achieve specified goals
