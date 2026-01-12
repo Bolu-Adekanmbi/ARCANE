@@ -10,3 +10,8 @@ Providing foundational/baseline models that others can build upon. Creating a lo
 - [ ] [[Language Model]]
 - [ ] [[Self-supervised Learning]]
 
+---
+[[Latency Metrics]]
+- Time to first token (TTFT)
+- Time per output token (TPOT)
+- Total Latency

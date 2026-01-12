@@ -11,4 +11,6 @@ Fine tuning may also include making sure that the model is aligned to human valu
 
 Typically, fine tuning involves using a smaller, high-quality dataset relevant to the specific task/domain.
 
+Fine tuning requires updating the model weights. We makes changes to the model itself, **NOT** the model context/instructions.
+
 Due to the scale of [[Foundation Model|foundation models]], fine-tuning models natively can be memory-intensive. Therefore, there are techniques for doing so with less memory. #TODO 
