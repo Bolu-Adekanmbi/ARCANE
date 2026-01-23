@@ -15,3 +15,9 @@ Providing foundational/baseline models that others can build upon. Creating a lo
 - Time to first token (TTFT)
 - Time per output token (TPOT)
 - Total Latency
+---
+[[Embodied AI]]
+- Also known as Physical AI
+
+[[Rule-based Systems]]
+- Symbolic AI
