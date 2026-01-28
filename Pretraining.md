@@ -4,6 +4,7 @@
 
 The model learns from a large general dataset before [[Fine Tuning|fine tuning]]
 
+A model is only as good as the data it was trained on
 #### Pretraining: [[Large Language Models|LLMs]]
 LLMs are trained on **LARGE** amounts of text
 
