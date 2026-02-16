@@ -2,7 +2,7 @@
 # This week
 
 ### Neuro-Symbolic Reasoning
-- [ ] [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://openreview.net/pdf?id=bETvUctiTR)
+- [x] [Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs](https://openreview.net/pdf?id=bETvUctiTR)
 - [ ] [Concept based Language Models via Neural Symbolic Reasoning](https://arxiv.org/html/2510.10063v1)
 - [ ] [Adaptive Neuro-Symbolic framework with dynamic contextual reasoning: A novel framework for semantic understanding](https://www.aimspress.com/article/doi/10.3934/mbe.2025112?viewType=HTML)
 - [ ] [Neuro-Symbolic Differentiable Reasoning](https://www.emergentmind.com/topics/neuro-symbolic-differentiable-reasoning)
@@ -17,7 +17,5 @@ Historically Relevant Paper
 
 Worth checking out
 - [ ] [Will we run out of data?](https://arxiv.org/abs/2211.04325)
-
-
 
 ## READ
